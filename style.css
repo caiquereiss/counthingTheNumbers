@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body {
+  background: rgb(171, 171, 230);
+  color:black;
+  margin: 0;
+  height: 100%;
+  
+}
+h1{
+
+  text-align: center;
+  margin-top: 230px;
+  margin-bottom: 20px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+.section{
+  width: 500px;
+  
+  border-radius: 10px;
+  background: white;
+  border: solid white;
+  margin: 0 auto;
+  padding: 15px;
+}
+.primary{
+  margin: 0 auto;
+  padding: 10px;
+  
+
+}
+
+.primary input {
+  display: flex;
+  padding: 2px;
+  margin-bottom: 10px;
+  
+}
+footer {
+  text-align: center;
+  color: white;
+  font-size: italic;
+}
+/* .secund {
+  padding: 5px;
+} */
+
